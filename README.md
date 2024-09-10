@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ekta Mall" title="👋 Hi there! I'm Ekta Mall"/>
+<h1 align="center">Hi 👋, I'm Ekta Mall</h1>
 <div align="justify">
 
 <a href="https://www.instagram.com/ektamall_/">
